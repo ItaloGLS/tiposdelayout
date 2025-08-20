@@ -1,0 +1,4 @@
+<RelativeLayout ...>
+    <TextView android:id="@+id/tv" android:text="Título" />
+    <Button android:layout_below="@id/tv" android:text="Botão"/>
+</RelativeLayout>
